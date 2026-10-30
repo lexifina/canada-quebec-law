@@ -1,0 +1,1545 @@
+{
+ "country": "CA-QC",
+ "acts": [
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of Quebec bills given assent (title, bill number, assent date and chapter only)",
+   "url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 1,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-06-13",
+     "units": 5,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-07-03",
+     "units": 6,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-10-22",
+     "units": 8,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-10-29",
+     "units": 9,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-11-19",
+     "units": 10,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-12-03",
+     "units": 13,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2014-12-05",
+     "units": 23,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-02-09",
+     "units": 24,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-03-20",
+     "units": 25,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-03-30",
+     "units": 27,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-03-31",
+     "units": 28,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 29,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-04-02",
+     "units": 30,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-04-21",
+     "units": 31,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-05-07",
+     "units": 33,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-05-20",
+     "units": 34,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-06-03",
+     "units": 37,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-06-12",
+     "units": 46,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-10-07",
+     "units": 47,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-10-21",
+     "units": 50,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-10-26",
+     "units": 51,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-11-10",
+     "units": 52,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-11-19",
+     "units": 53,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-11-20",
+     "units": 54,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-11-26",
+     "units": 57,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 58,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-12-03",
+     "units": 61,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2015-12-04",
+     "units": 67,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-02-17",
+     "units": 68,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-03-23",
+     "units": 69,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-04-06",
+     "units": 71,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-04-28",
+     "units": 73,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-05-18",
+     "units": 74,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-05-20",
+     "units": 75,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-05-26",
+     "units": 76,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 77,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-06-02",
+     "units": 78,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-06-08",
+     "units": 81,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-06-10",
+     "units": 93,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-10-26",
+     "units": 94,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-11-02",
+     "units": 95,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-11-10",
+     "units": 96,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-11-23",
+     "units": 97,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-12-07",
+     "units": 101,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 107,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2016-12-10",
+     "units": 108,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-02-08",
+     "units": 109,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-02-28",
+     "units": 110,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-03-23",
+     "units": 112,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-03-29",
+     "units": 113,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-04-13",
+     "units": 114,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-05-11",
+     "units": 116,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-05-30",
+     "units": 118,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 119,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-06-08",
+     "units": 120,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-06-14",
+     "units": 121,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-06-16",
+     "units": 128,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-09-21",
+     "units": 129,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-09-27",
+     "units": 130,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 131,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-10-18",
+     "units": 132,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 133,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-10-26",
+     "units": 134,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-11-09",
+     "units": 136,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-11-15",
+     "units": 137,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-11-23",
+     "units": 139,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-12-01",
+     "units": 140,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-12-07",
+     "units": 143,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2017-12-08",
+     "units": 148,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-02-14",
+     "units": 149,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-02-22",
+     "units": 150,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-03-20",
+     "units": 151,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-03-21",
+     "units": 152,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-03-28",
+     "units": 155,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-04-18",
+     "units": 156,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-04-19",
+     "units": 157,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 158,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-05-10",
+     "units": 159,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-05-15",
+     "units": 160,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-05-31",
+     "units": 162,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-06-06",
+     "units": 165,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 170,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-06-13",
+     "units": 172,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 183,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2018-12-07",
+     "units": 184,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-03-20",
+     "units": 186,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-03-27",
+     "units": 187,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 188,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-04-17",
+     "units": 189,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-05-15",
+     "units": 191,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 192,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-06-07",
+     "units": 195,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-06-16",
+     "units": 197,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-06-19",
+     "units": 203,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-09-18",
+     "units": 204,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-10-10",
+     "units": 206,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-10-30",
+     "units": 208,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 209,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-11-06",
+     "units": 211,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-11-07",
+     "units": 212,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-11-14",
+     "units": 213,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-12-05",
+     "units": 214,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-12-08",
+     "units": 215,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2019-12-11",
+     "units": 224,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-02-08",
+     "units": 225,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-02-21",
+     "units": 226,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-03-12",
+     "units": 227,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-03-17",
+     "units": 232,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-05-27",
+     "units": 233,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 234,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 235,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-06-05",
+     "units": 239,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-06-12",
+     "units": 241,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-09-24",
+     "units": 243,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-10-08",
+     "units": 245,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-10-22",
+     "units": 247,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-10-28",
+     "units": 249,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-10-29",
+     "units": 250,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-11-10",
+     "units": 251,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 252,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 253,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-12-10",
+     "units": 254,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2020-12-11",
+     "units": 260,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-02-17",
+     "units": 261,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-03-11",
+     "units": 263,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 264,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-03-17",
+     "units": 265,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-03-23",
+     "units": 266,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-03-25",
+     "units": 268,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-03-30",
+     "units": 269,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 270,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-04-20",
+     "units": 271,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-05-12",
+     "units": 272,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-05-13",
+     "units": 273,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-06-02",
+     "units": 275,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-06-04",
+     "units": 278,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-06-08",
+     "units": 279,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-06-09",
+     "units": 281,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-06-10",
+     "units": 283,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-06-11",
+     "units": 288,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-09-22",
+     "units": 289,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-09-23",
+     "units": 290,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-10-06",
+     "units": 293,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-10-07",
+     "units": 294,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-11-05",
+     "units": 295,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-11-30",
+     "units": 296,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 298,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 302,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 303,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 306,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-02-10",
+     "units": 307,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-02-24",
+     "units": 309,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 310,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 311,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 313,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-04-12",
+     "units": 315,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-04-13",
+     "units": 316,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 317,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-05-11",
+     "units": 318,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 319,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 322,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 325,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-03",
+     "units": 327,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-07",
+     "units": 328,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-08",
+     "units": 331,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-09",
+     "units": 334,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-10",
+     "units": 340,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-06-15",
+     "units": 341,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-12-02",
+     "units": 342,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2022-12-09",
+     "units": 344,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-02-16",
+     "units": 345,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 347,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 348,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 349,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-04-06",
+     "units": 351,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 352,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-05-12",
+     "units": 353,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-05-31",
+     "units": 354,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 356,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-06-06",
+     "units": 357,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-06-07",
+     "units": 361,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 362,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-06-09",
+     "units": 364,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-09-26",
+     "units": 365,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-10-05",
+     "units": 368,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-10-24",
+     "units": 369,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 370,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-11-02",
+     "units": 371,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-11-09",
+     "units": 372,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 373,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 374,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 376,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 379,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-12-08",
+     "units": 380,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2023-12-13",
+     "units": 381,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 382,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-02-14",
+     "units": 383,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-02-21",
+     "units": 384,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-03-14",
+     "units": 385,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 388,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-03-28",
+     "units": 389,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-04-09",
+     "units": 391,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 392,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-05-07",
+     "units": 396,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-05-09",
+     "units": 398,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 399,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-05-28",
+     "units": 402,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 404,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-06-04",
+     "units": 405,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 407,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-06-07",
+     "units": 408,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-10-03",
+     "units": 409,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 410,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-10-09",
+     "units": 412,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-10-17",
+     "units": 413,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-11-07",
+     "units": 416,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-11-26",
+     "units": 417,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-11-27",
+     "units": 418,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 419,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 422,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 425,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 430,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-02-12",
+     "units": 431,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-02-19",
+     "units": 432,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-02-28",
+     "units": 434,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-03-25",
+     "units": 436,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-03-27",
+     "units": 438,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-04-09",
+     "units": 439,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-04-10",
+     "units": 440,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-04-23",
+     "units": 441,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-04-24",
+     "units": 442,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-05-22",
+     "units": 443,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-05-28",
+     "units": 445,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 447,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-06-04",
+     "units": 457,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 458,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-06-07",
+     "units": 459,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-10-25",
+     "units": 460,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-10-28",
+     "units": 463,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 465,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-11-04",
+     "units": 466,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-11-12",
+     "units": 468,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-11-13",
+     "units": 469,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 470,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 476,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2026-02-24",
+     "units": 477,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 478,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2026-03-20",
+     "units": 479,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2026-04-02",
+     "units": 485,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2026-06-11",
+     "units": 491,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    },
+    {
+     "from": "2026-06-12",
+     "units": 496,
+     "source_url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/index.html",
+     "sha256": "8d6a953ab45954e429350e7059f82c810dfe67aecee998024e33668373e212d0"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Quebec: legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q176",
+   "versions": [
+    {
+     "from": "1867-07-01",
+     "units": 1,
+     "source_url": "https://www.wikidata.org/wiki/Q176",
+     "sha256": "wikidata-entity-Q176"
+    },
+    {
+     "from": "2026-10-29",
+     "units": 7,
+     "source_url": "https://www.wikidata.org/wiki/Q176",
+     "sha256": "wikidata-entity-Q176"
+    }
+   ]
+  }
+ ]
+}

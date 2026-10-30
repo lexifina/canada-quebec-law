@@ -1,0 +1,17 @@
+No law text is published. This repository holds metadata only.
+
+Catalogue entries (bill number, title, assent date, chapter) are facts recorded by the Assemblée nationale
+du Québec (https://www.assnat.qc.ca). Source: « Assemblée nationale du Québec ». No text of its documents
+is reproduced.
+
+The "legal-system" facts come from Wikidata (https://www.wikidata.org), released under CC0 1.0.
+
+The statutes of Quebec are published by the Éditeur officiel du Québec on LégisQuébec
+(https://www.legisquebec.gouv.qc.ca). LégisQuébec's copyright page says: « Pour reproduire, télécharger,
+stocker, traduire, adapter, publier, communiquer par télécommunication ou représenter en public des
+informations contenues dans le site LégisQuébec, sur quelque support et par quelque procédé que ce soit,
+il faut obtenir préalablement une autorisation des Publications du Québec et payer les redevances
+associées. » They are not copied here.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

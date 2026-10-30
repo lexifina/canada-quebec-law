@@ -1,0 +1,25 @@
+{
+  "corpus": "ca/quebec/acts",
+  "parent": "ca/federal/acts",
+  "name": "Quebec: catalogue of bills given assent (metadata only, no law text) and legal-system facts",
+  "label": "Quebec",
+  "language": "fr",
+  "acts": [
+    "catalogue",
+    "legal-system"
+  ],
+  "history": "as-enacted",
+  "history_from": "1867-07-01",
+  "record_to": "2026-06-12",
+  "record_note": "Metadata only, no law text: the Government of Quebec does not allow its statutes to be reproduced without prior authorisation. The catalogue lists the 496 bills given assent (sanction) from 2014-06-10 to 2026-06-12 (41st to 43rd Legislatures), each dated by its assent day, with title, bill number and annual-statute chapter; checked against the National Assembly records on 2026-10-30.",
+  "checked_on": "2026-10-30",
+  "built": "2026-10-30",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "dates": {
+    "commit": "catalogue: the assent (sanction) day; legal-system: the dated Wikidata fact, else the items' latest revision",
+    "time": "12:00 America/Toronto (UTC-5, UTC-4 in daylight time)"
+  },
+  "reuse": "No law text is reproduced. Bill numbers, titles, assent dates and chapters are facts recorded by the Assemblée nationale du Québec; the legal-system facts are from Wikidata (CC0).",
+  "tool": "tools/on.py"
+}
